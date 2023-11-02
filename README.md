@@ -30,3 +30,8 @@ cargo build
 ./node_inject
 ./license-gen
 ```
+
+# Thinks
+
+Integration  From [NodeInject](https://github.com/DiamondHunters/NodeInject.git)  and [NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example.git)
+
